@@ -1,0 +1,279 @@
+# FIXED
+
+CC26X2R1_LAUNCHXL.obj: ../CC26X2R1_LAUNCHXL.c
+CC26X2R1_LAUNCHXL.obj: C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/stdbool.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/stddef.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/_ti_config.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/linkage.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/stdint.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/_stdint40.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/sys/stdint.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/sys/cdefs.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/sys/_types.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/machine/_types.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/machine/_stdint.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/sys/_stdint.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/ioc.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_types.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/../inc/hw_chip_def.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_memmap.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_ioc.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_ints.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/interrupt.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_nvic.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/debug.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/cpu.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_cpu_scs.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../driverlib/rom.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/gpio.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_gpio.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/udma.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_udma.h
+CC26X2R1_LAUNCHXL.obj: ../CC26X2R1_LAUNCHXL.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/PIN.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/ADCBuf.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/adcbuf/ADCBufCC26X2.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/pin/PINCC26XX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/dpl/HwiP.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/DeviceFamily.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/dma/UDMACC26XX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/Power.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/utils/List.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/power/PowerCC26XX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/dpl/ClockP.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/timer/GPTimerCC26XX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/inc/hw_gpt.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/event.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_event.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/timer.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/power/PowerCC26X2.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/aux_adc.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_adi.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_adi_4_aux.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_aux_anaif.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/dpl/SemaphoreP.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/dpl/SwiP.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/ADC.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/adc/ADCCC26XX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/ECDH.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/cryptoutils/cryptokey/CryptoKey.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/cryptoutils/ecc/ECCParams.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/ecdh/ECDHCC26X2.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/pka.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_pka.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_pka_ram.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/sys_ctrl.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_sysctl.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_prcm.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_aon_ioc.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_ddi_0_osc.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_rfc_pwr.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_adi_3_refsys.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_aon_pmctl.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_aon_rtc.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_fcfg1.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/pwr_ctrl.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_adi_2_refsys.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/osc.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_ccfg.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_ddi.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/ddi.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_aux_smph.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/prcm.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/aon_ioc.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/adi.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_uart.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/vims.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_vims.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/string.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/ECDSA.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/ecdsa/ECDSACC26X2.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/ECJPAKE.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/ecjpake/ECJPAKECC26X2.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/SHA2.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/sha2/SHA2CC26X2.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/AESCCM.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/aesccm/AESCCMCC26XX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/AESGCM.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/aesgcm/AESGCMCC26XX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/AESCBC.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/aescbc/AESCBCCC26XX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/AESCTR.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/aesctr/AESCTRCC26XX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/AESECB.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/aesecb/AESECBCC26XX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/AESCTRDRBG.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/aesctrdrbg/AESCTRDRBGXX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/TRNG.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/trng/TRNGCC26XX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/display/Display.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/stdarg.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/display/DisplayUart.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/UART.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/display/DisplaySharp.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/SPI.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/grlib/grlib.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/assert.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/GPIO.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/gpio/GPIOCC26XX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/I2C.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/i2c/I2CCC26XX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/I2S.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/i2s/I2SCC26XX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/NVS.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/nvs/NVSSPI25X.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/nvs/NVSCC26XX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/PWM.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/pwm/PWMTimerCC26XX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/rf/RF.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/rf_common_cmd.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/rf_mailbox.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/rf_prop_cmd.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/rf_ble_cmd.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/SD.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/sd/SDSPI.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/spi/SPICC26X2DMA.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/uart/UARTCC26XX.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/utils/RingBuf.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/uart.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/Watchdog.h
+CC26X2R1_LAUNCHXL.obj: C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/watchdog/WatchdogCC26XX.h
+
+../CC26X2R1_LAUNCHXL.c: 
+C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/stdbool.h: 
+C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/stddef.h: 
+C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/_ti_config.h: 
+C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/linkage.h: 
+C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/stdint.h: 
+C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/_stdint40.h: 
+C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/sys/stdint.h: 
+C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/sys/cdefs.h: 
+C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/sys/_types.h: 
+C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/machine/_types.h: 
+C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/machine/_stdint.h: 
+C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/sys/_stdint.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/ioc.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_types.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/../inc/hw_chip_def.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_memmap.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_ioc.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_ints.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/interrupt.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_nvic.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/debug.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/cpu.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_cpu_scs.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../driverlib/rom.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/gpio.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_gpio.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/udma.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_udma.h: 
+../CC26X2R1_LAUNCHXL.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/PIN.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/ADCBuf.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/adcbuf/ADCBufCC26X2.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/pin/PINCC26XX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/dpl/HwiP.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/DeviceFamily.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/dma/UDMACC26XX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/Power.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/utils/List.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/power/PowerCC26XX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/dpl/ClockP.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/timer/GPTimerCC26XX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/inc/hw_gpt.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/event.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_event.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/timer.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/power/PowerCC26X2.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/aux_adc.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_adi.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_adi_4_aux.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_aux_anaif.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/dpl/SemaphoreP.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/dpl/SwiP.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/ADC.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/adc/ADCCC26XX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/ECDH.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/cryptoutils/cryptokey/CryptoKey.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/cryptoutils/ecc/ECCParams.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/ecdh/ECDHCC26X2.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/pka.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_pka.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_pka_ram.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/sys_ctrl.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_sysctl.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_prcm.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_aon_ioc.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_ddi_0_osc.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_rfc_pwr.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_adi_3_refsys.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_aon_pmctl.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_aon_rtc.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_fcfg1.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/pwr_ctrl.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_adi_2_refsys.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/osc.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_ccfg.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_ddi.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/ddi.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_aux_smph.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/prcm.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/aon_ioc.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/adi.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_uart.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/vims.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/../inc/hw_vims.h: 
+C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/string.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/ECDSA.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/ecdsa/ECDSACC26X2.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/ECJPAKE.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/ecjpake/ECJPAKECC26X2.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/SHA2.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/sha2/SHA2CC26X2.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/AESCCM.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/aesccm/AESCCMCC26XX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/AESGCM.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/aesgcm/AESGCMCC26XX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/AESCBC.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/aescbc/AESCBCCC26XX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/AESCTR.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/aesctr/AESCTRCC26XX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/AESECB.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/aesecb/AESECBCC26XX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/AESCTRDRBG.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/aesctrdrbg/AESCTRDRBGXX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/TRNG.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/trng/TRNGCC26XX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/display/Display.h: 
+C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/stdarg.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/display/DisplayUart.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/UART.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/display/DisplaySharp.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/SPI.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/grlib/grlib.h: 
+C:/TI/ccsv8/tools/compiler/ti-cgt-arm_18.12.1.LTS/include/assert.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/GPIO.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/gpio/GPIOCC26XX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/I2C.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/i2c/I2CCC26XX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/I2S.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/i2s/I2SCC26XX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/NVS.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/nvs/NVSSPI25X.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/nvs/NVSCC26XX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/PWM.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/pwm/PWMTimerCC26XX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/rf/RF.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/rf_common_cmd.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/rf_mailbox.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/rf_prop_cmd.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/rf_ble_cmd.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/SD.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/sd/SDSPI.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/spi/SPICC26X2DMA.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/uart/UARTCC26XX.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/utils/RingBuf.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/devices/cc13x2_cc26x2/driverlib/uart.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/Watchdog.h: 
+C:/TI/simplelink_cc13x2_26x2_sdk_3_10_00_53/source/ti/drivers/watchdog/WatchdogCC26XX.h: 
